@@ -1,0 +1,27 @@
+{
+  "name": "solanaroulette",
+  "version": "1.0.0",
+  "description": "Creating a Roulette game on Solana blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GoelPratyush/SolanaRoulette.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GoelPratyush/SolanaRoulette/issues"
+  },
+  "homepage": "https://github.com/GoelPratyush/SolanaRoulette#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.31.0",
+    "chalk": "^4.1.2",
+    "commander": "^8.3.0",
+    "figlet": "^1.5.2",
+    "inquirer": "^8.2.0"
+  }
+}
